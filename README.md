@@ -33,7 +33,7 @@ let's get a good grade :)
 - We've set the starting period as 01.01.21 and ending time as 25.05.23 except for tweets which we couldn't access earlier than 1 month
 - We've gathered the data through various libraries such as Selenium, Requests, BeautifulSoup and SnScrape  
 ## Data Preprocessing
-- We've used built-in python libraries, Pandas, Numpy, Transformers and BertTokenizer for preprocessing
+- We've used built-in python libraries, pypdfium, Pandas, Numpy, Transformers and BertTokenizer for preprocessing
 ## Model Training 
 - We've used a Turkish Cased Bert for training the data with Transformers
 - [Link to Untrained Model](https://huggingface.co/dbmdz/bert-base-turkish-cased)
