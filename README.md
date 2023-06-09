@@ -39,3 +39,5 @@ let's get a good grade :)
 - [Link to Untrained Model](https://huggingface.co/dbmdz/bert-base-turkish-cased)
 ## Visualization
 - We've Used Matplotlib and Seaborn for visualizations
+
+# Quick File Explanations
