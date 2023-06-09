@@ -10,7 +10,7 @@ let's get a good grade :)
 -----------------------------------------------
 
 # Links to resources
-- Here data and trained model's source is shared thorugh google drive since they are significantly big in size or quantity
+- Here data and trained model's source is shared through google drive since they are significantly big in size or quantity
 ------------------------------------------------------------ 
 ## Link to the Trained Model
 - Trained Model can be directly downloaded and tuned for live sentiment analysis.
