@@ -15,13 +15,13 @@ let's get a good grade :)
 ## Link to the Trained Model
 - Trained Model can be directly downloaded and tuned for live sentiment analysis.
 - Has an Accuracy rate > 0.90
-[Trained Model](https://drive.google.com/drive/folders/1sn4JtCZ44wH2FO60Opm3FKXQwYLMtwGY?usp=sharing)  
+- [Trained Model Link](https://drive.google.com/drive/folders/1sn4JtCZ44wH2FO60Opm3FKXQwYLMtwGY?usp=sharing)  
 ------------------------------------------------------------
 ## Link to the Prelabeled Data
 - Data is prelabeled with Daily Return Value of the Bist-100 in order to get a first insight
 - They can be found as classified neg-pos subfolders
-[Pre-Labeled Data](https://drive.google.com/drive/folders/1NYB9wBx8yt31drdczAB_ll5s31I1dcN4?usp=sharing)  
+- [Pre-Labeled Data Link](https://drive.google.com/drive/folders/1NYB9wBx8yt31drdczAB_ll5s31I1dcN4?usp=sharing)  
 -------------------------------------------------------------
 ## Link to the True Labeled Data 
 - Data then labeled another time with keyword searching and more than 200 files have changed directory from neg to pos or vice-versa: 
-[Labeled Data](https://drive.google.com/drive/folders/1sn4JtCZ44wH2FO60Opm3FKXQwYLMtwGY?usp=sharing)
+- [Labeled Data Link](https://drive.google.com/drive/folders/1sn4JtCZ44wH2FO60Opm3FKXQwYLMtwGY?usp=sharing)
