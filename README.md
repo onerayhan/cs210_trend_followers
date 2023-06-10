@@ -78,7 +78,7 @@ code for garanti and yapikredi may not be here
 
   Gets .txt file of links and downloads PDFs from it and saves them to /data/yapikredi_PDF, folders need to be created beforehand
 
-# Extracting text
+# Extracting Text
 
 - pypdfium2_akbank.py
 
