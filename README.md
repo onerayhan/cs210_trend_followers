@@ -152,4 +152,5 @@ else it was put into the positive folder, these folders would serve as the label
 - Visualizations.ipynb
   To show the performance on of the model on whole data and to visualize the sentiments made from brokerages or news this file is implemented.
 - CS210Visualization.pptx 
-  
+- sentiment_of_broker_sites.ipynb
+  Plots the sentiment of 4 different broker sites as percentage comparisons with positive and negative sentiments as categories
