@@ -39,6 +39,8 @@ let's get a good grade :)
 - [Link to Untrained Model](https://huggingface.co/dbmdz/bert-base-turkish-cased)
 ## Visualization
 - We've Used Matplotlib and Seaborn for visualizations
+ 
+-----------------------------------------------
 
 # Quick File Explanations
 Below are quick explanation about what every code does, 
@@ -48,58 +50,58 @@ code for garanti and yapikredi may not be here
 
 # Downloading Links
 
--akbank_link_download.py
+- akbank_link_download.py
 
   Downloads links to PDFs in the specified url until 04.01.2021 using selenium to traverse interactive page in akbank website
 
--gedik_link_download.py
+- gedik_link_download.py
 
   Downloads links to PDFs in the specified url using requests and BeautifulSoup to sequentially take links from gedik website
 
-# downloading PDFs
+# Downloading PDFs
 
--akbank_PDF_download.py
+- akbank_PDF_download.py
 
   Gets .txt file of links and downloads PDFs from it and saves them to /data/akbank_PDF, folders need to be created beforehand
 
--garanti_PDF_download.py
+- garanti_PDF_download.py
 
   Gets .txt file of links and downloads PDFs from it and saves them to /data/garanti_PDF, folders need to be created beforehand
 
 
--gedik_PDF_download.py
+- gedik_PDF_download.py
 
   Gets .txt file of links and downloads PDFs from it and saves them to /data/gedik_PDF, folders need to be created beforehand
 
 
--yapikredi_PDF_download.py
+- yapikredi_PDF_download.py
 
   Gets .txt file of links and downloads PDFs from it and saves them to /data/yapikredi_PDF, folders need to be created beforehand
 
-# extracting text
+# Extracting text
 
--pypdfium2_akbank.py
+- pypdfium2_akbank.py
 
   Using pypdfium2 to get necessary text from gedik pdfs located in data/yapikredi_PDF
   put all extracted text into a list of dictionaries where date, count, paragraph are keys
   put the combined dictionaries into .json file
 
 
--pypdfium2_garanti.py
+- pypdfium2_garanti.py
 
   Using pypdfium2 to get necessary text from garanti pdfs located in data/garanti_PDF
   put all extracted text into a list of dictionaries where date, count, paragraph are keys
   put the combined dictionaries into .json file
 
 
--pypdfium2_gedik.py
+- pypdfium2_gedik.py
 
   Using pypdfium2 to get necessary text from gedik pdfs located in data/gedik_PDF
   put all extracted text into a list of dictionaries where date, monthAgo, count, paragraph are keys
   put the combined dictionaries into .json file
 
 
--yapikredi_PDF_download.py
+- pypdfium2_yapikredi.py
 
   Using pypdfium2 to get necessary text from gedik pdfs located in data/yapikredi_PDF
   put all extracted text into a list of dictionaries where date, count, paragraph are keys
@@ -111,7 +113,7 @@ After text extraction the output .json files were processed by dividing them by 
 if a text was published while BIST-100 had a negative change the processed text was put into the negative folder
 else it was put into the positive folder, these folders would serve as the labeled data for our machine learning model
 
--json_sorter.py
+- json_sorter.py
 
   In this program received data is a json file containing list of dictionary with keys date, count, and paragraph.
   The date of each element will be compared with XU100 excel sheet where changes in BIST-100 value are located.
@@ -119,7 +121,7 @@ else it was put into the positive folder, these folders would serve as the label
   or into positive folder if value is positive.
 
 
--json_sort_haberler.py
+- json_sort_haberler.py
 
   In this program received data is a json file containing list of dictionary with keys date, count, and paragraph.
   The date of each element will be compared with XU100 excel sheet where changes in BIST-100 value are located.
@@ -127,7 +129,7 @@ else it was put into the positive folder, these folders would serve as the label
   or into positive folder if value is positive.
 
 
--json_sort_tweet.py
+- json_sort_tweet.py
 
   In this program received data is a json file containing dictionary of dictionary with id as keys and 
   date, tweet, views as values. The date of each element will be compared with XU100 excel sheet where 
