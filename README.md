@@ -14,7 +14,7 @@ let's get a good grade :)
 ------------------------------------------------------------ 
 ## Link to the Trained Model
 - Trained Model can be directly downloaded and tuned for live sentiment analysis.
-- Has an Accuracy rate > 0.90
+- Has an Accuracy rate > 0.90 for the test data 
 - [Trained Model Link](https://drive.google.com/drive/folders/1sn4JtCZ44wH2FO60Opm3FKXQwYLMtwGY?usp=sharing)  
 ------------------------------------------------------------
 ## Link to the Prelabeled Data
