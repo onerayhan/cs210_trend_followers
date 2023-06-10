@@ -1,0 +1,412 @@
+{'File Name': 'haberler_1.7.2020.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '01.07.2020', 'Deðiþim': -1.58}
+--------------------
+{'File Name': 'haberler_10.12.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '10.12.2021', 'Deðiþim': 0.09}
+--------------------
+{'File Name': 'haberler_10.5.2023.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '10.05.2023', 'Deðiþim': -1.1}
+--------------------
+{'File Name': 'haberler_11.10.2022.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '11.10.2022', 'Deðiþim': -0.52}
+--------------------
+{'File Name': 'haberler_12.4.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '12.04.2021', 'Deðiþim': -1.26}
+--------------------
+{'File Name': 'haberler_12.5.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '12.05.2021', 'Deðiþim': -0.01}
+--------------------
+{'File Name': 'haberler_12.8.2020.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '12.08.2020', 'Deðiþim': -0.06}
+--------------------
+{'File Name': 'haberler_13.7.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '13.07.2021', 'Deðiþim': -0.84}
+--------------------
+{'File Name': 'haberler_13.8.2020.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '13.08.2020', 'Deðiþim': -1.72}
+--------------------
+{'File Name': 'haberler_15.1.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '15.01.2021', 'Deðiþim': -0.8}
+--------------------
+{'File Name': 'haberler_16.7.2020.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '16.07.2020', 'Deðiþim': 0.06}
+--------------------
+{'File Name': 'haberler_17.3.2023.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '17.03.2023', 'Deðiþim': -2.68}
+--------------------
+{'File Name': 'haberler_17.7.2020.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '17.07.2020', 'Deðiþim': -0.07}
+--------------------
+{'File Name': 'haberler_17.9.2020.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '17.09.2020', 'Deðiþim': 0.44}
+--------------------
+{'File Name': 'haberler_17.9.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '17.09.2021', 'Deðiþim': -0.32}
+--------------------
+{'File Name': 'haberler_18.4.2023.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '18.04.2023', 'Deðiþim': -1.13}
+--------------------
+{'File Name': 'haberler_18.5.2023.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '18.05.2023', 'Deðiþim': -3.84}
+--------------------
+{'File Name': 'haberler_19.7.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '19.07.2021', 'Deðiþim': -0.47}
+--------------------
+{'File Name': 'haberler_2.10.2020.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '02.10.2020', 'Deðiþim': 0.54}
+--------------------
+{'File Name': 'haberler_2.11.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '02.11.2021', 'Deðiþim': -0.37}
+--------------------
+{'File Name': 'haberler_2.3.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '02.03.2021', 'Deðiþim': 0.16}
+--------------------
+{'File Name': 'haberler_20.7.2020.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '20.07.2020', 'Deðiþim': 0.37}
+--------------------
+{'File Name': 'haberler_21.12.2020.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '21.12.2020', 'Deðiþim': -1.23}
+--------------------
+{'File Name': 'haberler_21.6.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '21.06.2021', 'Deðiþim': 0.74}
+--------------------
+{'File Name': 'haberler_21.9.2020.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '21.09.2020', 'Deðiþim': -2.23}
+--------------------
+{'File Name': 'haberler_22.2.2023.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '22.02.2023', 'Deðiþim': -1.78}
+--------------------
+{'File Name': 'haberler_22.5.2023.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '22.05.2023', 'Deðiþim': -1.47}
+--------------------
+{'File Name': 'haberler_22.7.2020.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '22.07.2020', 'Deðiþim': -0.62}
+--------------------
+{'File Name': 'haberler_23.5.2023.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '23.05.2023', 'Deðiþim': 0.08}
+--------------------
+{'File Name': 'haberler_23.7.2020.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '23.07.2020', 'Deðiþim': 0.27}
+--------------------
+{'File Name': 'haberler_24.2.2022.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '24.02.2022', 'Deðiþim': -5.21}
+--------------------
+{'File Name': 'haberler_24.3.2023.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '24.03.2023', 'Deðiþim': -0.92}
+--------------------
+{'File Name': 'haberler_24.9.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '24.09.2021', 'Deðiþim': -0.91}
+--------------------
+{'File Name': 'haberler_25.2.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '25.02.2021', 'Deðiþim': -1.46}
+--------------------
+{'File Name': 'haberler_26.11.2020.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '26.11.2020', 'Deðiþim': 0.59}
+--------------------
+{'File Name': 'haberler_26.3.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '26.03.2021', 'Deðiþim': -1.92}
+--------------------
+{'File Name': 'haberler_26.5.2023.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '26.05.2023', 'Deðiþim': 3.12}
+--------------------
+{'File Name': 'haberler_27.10.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '27.10.2021', 'Deðiþim': 0.76}
+--------------------
+{'File Name': 'haberler_27.8.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '27.08.2021', 'Deðiþim': 0.51}
+--------------------
+{'File Name': 'haberler_28.10.2022.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '28.10.2022', 'Deðiþim': -1.28}
+--------------------
+{'File Name': 'haberler_28.4.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '28.04.2021', 'Deðiþim': -0.4}
+--------------------
+{'File Name': 'haberler_29.7.2020.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '29.07.2020', 'Deðiþim': -1.77}
+--------------------
+{'File Name': 'haberler_3.11.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '03.11.2021', 'Deðiþim': 0.92}
+--------------------
+{'File Name': 'haberler_3.5.2023.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '03.05.2023', 'Deðiþim': -0.7}
+--------------------
+{'File Name': 'haberler_3.7.2020.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '03.07.2020', 'Deðiþim': -1.34}
+--------------------
+{'File Name': 'haberler_30.11.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '30.11.2021', 'Deðiþim': 0.12}
+--------------------
+{'File Name': 'haberler_30.7.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '30.07.2021', 'Deðiþim': 0.7}
+--------------------
+{'File Name': 'haberler_4.12.2020.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '04.12.2020', 'Deðiþim': -0.06}
+--------------------
+{'File Name': 'haberler_5.1.2022.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '05.01.2022', 'Deðiþim': 2.02}
+--------------------
+{'File Name': 'haberler_5.12.2022.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '05.12.2022', 'Deðiþim': -0.72}
+--------------------
+{'File Name': 'haberler_6.4.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '06.04.2021', 'Deðiþim': -1.54}
+--------------------
+{'File Name': 'haberler_6.4.2023.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '06.04.2023', 'Deðiþim': -0.15}
+--------------------
+{'File Name': 'haberler_7.1.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '07.01.2021', 'Deðiþim': 0.7}
+--------------------
+{'File Name': 'haberler_7.5.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '07.05.2021', 'Deðiþim': 0.63}
+--------------------
+{'File Name': 'haberler_7.9.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '07.09.2021', 'Deðiþim': -1.32}
+--------------------
+{'File Name': 'haberler_8.2.2022.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '08.02.2022', 'Deðiþim': 0.43}
+--------------------
+{'File Name': 'haberler_8.7.2021.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '08.07.2021', 'Deðiþim': -1.06}
+--------------------
+{'File Name': 'haberler_9.7.2020.txt', 'Folder': 'neg', 'Source': 'haberler', 'Date': '09.07.2020', 'Deðiþim': -2.98}
+--------------------
+{'File Name': 'haberler_1.10.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '01.10.2020', 'Deðiþim': -0.57}
+--------------------
+{'File Name': 'haberler_1.12.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '01.12.2020', 'Deðiþim': 1.77}
+--------------------
+{'File Name': 'haberler_1.12.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '01.12.2021', 'Deðiþim': 1.88}
+--------------------
+{'File Name': 'haberler_1.2.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '01.02.2021', 'Deðiþim': 0.51}
+--------------------
+{'File Name': 'haberler_1.6.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '01.06.2021', 'Deðiþim': 0.53}
+--------------------
+{'File Name': 'haberler_1.6.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '01.06.2022', 'Deðiþim': 0.57}
+--------------------
+{'File Name': 'haberler_1.8.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '01.08.2022', 'Deðiþim': 2.16}
+--------------------
+{'File Name': 'haberler_1.9.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '01.09.2020', 'Deðiþim': 0.33}
+--------------------
+{'File Name': 'haberler_10.1.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '10.01.2022', 'Deðiþim': -0.21}
+--------------------
+{'File Name': 'haberler_10.11.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '10.11.2020', 'Deðiþim': 1.33}
+--------------------
+{'File Name': 'haberler_10.5.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '10.05.2021', 'Deðiþim': 0.82}
+--------------------
+{'File Name': 'haberler_10.6.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '10.06.2022', 'Deðiþim': -0.41}
+--------------------
+{'File Name': 'haberler_10.8.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '10.08.2020', 'Deðiþim': 1.89}
+--------------------
+{'File Name': 'haberler_11.11.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '11.11.2020', 'Deðiþim': 2.35}
+--------------------
+{'File Name': 'haberler_11.11.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '11.11.2022', 'Deðiþim': -1.89}
+--------------------
+{'File Name': 'haberler_11.12.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '11.12.2020', 'Deðiþim': 1.4}
+--------------------
+{'File Name': 'haberler_11.2.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '11.02.2022', 'Deðiþim': 1.38}
+--------------------
+{'File Name': 'haberler_11.8.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '11.08.2020', 'Deðiþim': 2.57}
+--------------------
+{'File Name': 'haberler_11.9.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '11.09.2020', 'Deðiþim': 0.18}
+--------------------
+{'File Name': 'haberler_12.12.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '12.12.2022', 'Deðiþim': 2.68}
+--------------------
+{'File Name': 'haberler_12.4.2023.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '12.04.2023', 'Deðiþim': 0.35}
+--------------------
+{'File Name': 'haberler_12.9.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '12.09.2022', 'Deðiþim': 2.57}
+--------------------
+{'File Name': 'haberler_13.1.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '13.01.2022', 'Deðiþim': 0.64}
+--------------------
+{'File Name': 'haberler_13.4.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '13.04.2022', 'Deðiþim': -0.9}
+--------------------
+{'File Name': 'haberler_13.7.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '13.07.2020', 'Deðiþim': 1.84}
+--------------------
+{'File Name': 'haberler_13.9.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '13.09.2022', 'Deðiþim': -6.99}
+--------------------
+{'File Name': 'haberler_14.10.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '14.10.2020', 'Deðiþim': 1.04}
+--------------------
+{'File Name': 'haberler_14.11.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '14.11.2022', 'Deðiþim': 2.66}
+--------------------
+{'File Name': 'haberler_14.12.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '14.12.2022', 'Deðiþim': -3.95}
+--------------------
+{'File Name': 'haberler_14.7.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '14.07.2021', 'Deðiþim': 1.34}
+--------------------
+{'File Name': 'haberler_14.8.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '14.08.2020', 'Deðiþim': -0.89}
+--------------------
+{'File Name': 'haberler_15.11.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '15.11.2022', 'Deðiþim': 0.54}
+--------------------
+{'File Name': 'haberler_15.6.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '15.06.2022', 'Deðiþim': 0.67}
+--------------------
+{'File Name': 'haberler_15.8.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '15.08.2022', 'Deðiþim': -0.63}
+--------------------
+{'File Name': 'haberler_16.11.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '16.11.2022', 'Deðiþim': -0.72}
+--------------------
+{'File Name': 'haberler_16.12.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '16.12.2021', 'Deðiþim': 4.37}
+--------------------
+{'File Name': 'haberler_16.7.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '16.07.2021', 'Deðiþim': -0.51}
+--------------------
+{'File Name': 'haberler_17.1.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '17.01.2022', 'Deðiþim': -0.13}
+--------------------
+{'File Name': 'haberler_17.3.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '17.03.2021', 'Deðiþim': -0.8}
+--------------------
+{'File Name': 'haberler_17.3.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '17.03.2022', 'Deðiþim': 1.41}
+--------------------
+{'File Name': 'haberler_17.5.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '17.05.2021', 'Deðiþim': 0.5}
+--------------------
+{'File Name': 'haberler_17.5.2023.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '17.05.2023', 'Deðiþim': 1.22}
+--------------------
+{'File Name': 'haberler_17.6.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '17.06.2021', 'Deðiþim': -0.62}
+--------------------
+{'File Name': 'haberler_17.8.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '17.08.2021', 'Deðiþim': 0.52}
+--------------------
+{'File Name': 'haberler_18.10.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '18.10.2022', 'Deðiþim': -0.94}
+--------------------
+{'File Name': 'haberler_18.11.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '18.11.2020', 'Deðiþim': 2.43}
+--------------------
+{'File Name': 'haberler_18.12.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '18.12.2020', 'Deðiþim': 0.72}
+--------------------
+{'File Name': 'haberler_18.4.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '18.04.2022', 'Deðiþim': 0.31}
+--------------------
+{'File Name': 'haberler_18.6.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '18.06.2021', 'Deðiþim': -1.9}
+--------------------
+{'File Name': 'haberler_18.8.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '18.08.2022', 'Deðiþim': 1.37}
+--------------------
+{'File Name': 'haberler_19.1.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '19.01.2021', 'Deðiþim': -0.29}
+--------------------
+{'File Name': 'haberler_19.10.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '19.10.2020', 'Deðiþim': 0.83}
+--------------------
+{'File Name': 'haberler_19.11.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '19.11.2020', 'Deðiþim': 1.49}
+--------------------
+{'File Name': 'haberler_19.11.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '19.11.2021', 'Deðiþim': -0.65}
+--------------------
+{'File Name': 'haberler_2.11.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '02.11.2020', 'Deðiþim': 1.24}
+--------------------
+{'File Name': 'haberler_2.12.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '02.12.2020', 'Deðiþim': -0.1}
+--------------------
+{'File Name': 'haberler_2.6.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '02.06.2022', 'Deðiþim': 0.89}
+--------------------
+{'File Name': 'haberler_2.8.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '02.08.2022', 'Deðiþim': -0.54}
+--------------------
+{'File Name': 'haberler_20.10.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '20.10.2020', 'Deðiþim': 0.18}
+--------------------
+{'File Name': 'haberler_20.10.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '20.10.2021', 'Deðiþim': 0.04}
+--------------------
+{'File Name': 'haberler_20.11.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '20.11.2020', 'Deðiþim': 0.63}
+--------------------
+{'File Name': 'haberler_20.12.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '20.12.2022', 'Deðiþim': 0.19}
+--------------------
+{'File Name': 'haberler_21.1.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '21.01.2021', 'Deðiþim': -1.68}
+--------------------
+{'File Name': 'haberler_21.12.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '21.12.2021', 'Deðiþim': -8.92}
+--------------------
+{'File Name': 'haberler_21.12.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '21.12.2022', 'Deðiþim': -0.37}
+--------------------
+{'File Name': 'haberler_21.5.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '21.05.2021', 'Deðiþim': -0.32}
+--------------------
+{'File Name': 'haberler_22.11.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '22.11.2022', 'Deðiþim': 4.68}
+--------------------
+{'File Name': 'haberler_22.2.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '22.02.2022', 'Deðiþim': 0.52}
+--------------------
+{'File Name': 'haberler_22.4.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '22.04.2021', 'Deðiþim': 1.89}
+--------------------
+{'File Name': 'haberler_22.6.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '22.06.2021', 'Deðiþim': 0.5}
+--------------------
+{'File Name': 'haberler_22.8.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '22.08.2022', 'Deðiþim': 1.48}
+--------------------
+{'File Name': 'haberler_22.9.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '22.09.2020', 'Deðiþim': 0.69}
+--------------------
+{'File Name': 'haberler_22.9.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '22.09.2021', 'Deðiþim': 1.02}
+--------------------
+{'File Name': 'haberler_23.10.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '23.10.2020', 'Deðiþim': -0.81}
+--------------------
+{'File Name': 'haberler_23.11.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '23.11.2020', 'Deðiþim': -1.13}
+--------------------
+{'File Name': 'haberler_23.3.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '23.03.2022', 'Deðiþim': -0.56}
+--------------------
+{'File Name': 'haberler_23.6.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '23.06.2021', 'Deðiþim': -0.92}
+--------------------
+{'File Name': 'haberler_24.11.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '24.11.2020', 'Deðiþim': -0.16}
+--------------------
+{'File Name': 'haberler_24.12.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '24.12.2020', 'Deðiþim': 0.41}
+--------------------
+{'File Name': 'haberler_24.3.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '24.03.2021', 'Deðiþim': 2.65}
+--------------------
+{'File Name': 'haberler_24.7.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '24.07.2020', 'Deðiþim': 0.59}
+--------------------
+{'File Name': 'haberler_24.8.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '24.08.2020', 'Deðiþim': -0.25}
+--------------------
+{'File Name': 'haberler_24.8.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '24.08.2021', 'Deðiþim': 0.05}
+--------------------
+{'File Name': 'haberler_25.10.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '25.10.2021', 'Deðiþim': 1.22}
+--------------------
+{'File Name': 'haberler_25.10.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '25.10.2022', 'Deðiþim': -0.21}
+--------------------
+{'File Name': 'haberler_25.12.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '25.12.2020', 'Deðiþim': -0.21}
+--------------------
+{'File Name': 'haberler_25.8.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '25.08.2022', 'Deðiþim': 1.97}
+--------------------
+{'File Name': 'haberler_25.9.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '25.09.2020', 'Deðiþim': -0.43}
+--------------------
+{'File Name': 'haberler_26.1.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '26.01.2021', 'Deðiþim': -0.12}
+--------------------
+{'File Name': 'haberler_26.10.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '26.10.2022', 'Deðiþim': -0.33}
+--------------------
+{'File Name': 'haberler_26.4.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '26.04.2021', 'Deðiþim': 2.24}
+--------------------
+{'File Name': 'haberler_26.8.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '26.08.2020', 'Deðiþim': 0.82}
+--------------------
+{'File Name': 'haberler_27.4.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '27.04.2021', 'Deðiþim': 0.74}
+--------------------
+{'File Name': 'haberler_27.5.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '27.05.2021', 'Deðiþim': -0.81}
+--------------------
+{'File Name': 'haberler_28.10.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '28.10.2021', 'Deðiþim': 0.21}
+--------------------
+{'File Name': 'haberler_28.11.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '28.11.2022', 'Deðiþim': 0.34}
+--------------------
+{'File Name': 'haberler_28.5.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '28.05.2021', 'Deðiþim': 0.63}
+--------------------
+{'File Name': 'haberler_28.7.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '28.07.2020', 'Deðiþim': -3.71}
+--------------------
+{'File Name': 'haberler_29.12.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '29.12.2020', 'Deðiþim': 1.16}
+--------------------
+{'File Name': 'haberler_29.12.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '29.12.2021', 'Deðiþim': 2.61}
+--------------------
+{'File Name': 'haberler_29.9.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '29.09.2020', 'Deðiþim': -0.04}
+--------------------
+{'File Name': 'haberler_3.4.2023.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '03.04.2023', 'Deðiþim': 0.69}
+--------------------
+{'File Name': 'haberler_3.6.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '03.06.2021', 'Deðiþim': -0.46}
+--------------------
+{'File Name': 'haberler_3.6.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '03.06.2022', 'Deðiþim': -0.38}
+--------------------
+{'File Name': 'haberler_3.9.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '03.09.2021', 'Deðiþim': -0.79}
+--------------------
+{'File Name': 'haberler_30.11.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '30.11.2020', 'Deðiþim': -2.35}
+--------------------
+{'File Name': 'haberler_30.4.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '30.04.2021', 'Deðiþim': -0.09}
+--------------------
+{'File Name': 'haberler_30.6.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '30.06.2020', 'Deðiþim': 0.09}
+--------------------
+{'File Name': 'haberler_31.12.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '31.12.2020', 'Deðiþim': -0.28}
+--------------------
+{'File Name': 'haberler_31.3.2023.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '31.03.2023', 'Deðiþim': -1.3}
+--------------------
+{'File Name': 'haberler_31.8.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '31.08.2020', 'Deðiþim': -2.1}
+--------------------
+{'File Name': 'haberler_4.1.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '04.01.2021', 'Deðiþim': 0.89}
+--------------------
+{'File Name': 'haberler_4.11.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '04.11.2020', 'Deðiþim': 1.05}
+--------------------
+{'File Name': 'haberler_4.11.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '04.11.2022', 'Deðiþim': 2.08}
+--------------------
+{'File Name': 'haberler_4.3.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '04.03.2022', 'Deðiþim': -1.15}
+--------------------
+{'File Name': 'haberler_4.4.2023.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '04.04.2023', 'Deðiþim': 2.93}
+--------------------
+{'File Name': 'haberler_5.1.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '05.01.2021', 'Deðiþim': -0.18}
+--------------------
+{'File Name': 'haberler_5.11.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '05.11.2021', 'Deðiþim': 0.49}
+--------------------
+{'File Name': 'haberler_5.4.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '05.04.2022', 'Deðiþim': 0.38}
+--------------------
+{'File Name': 'haberler_5.4.2023.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '05.04.2023', 'Deðiþim': -1.54}
+--------------------
+{'File Name': 'haberler_5.5.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '05.05.2021', 'Deðiþim': 0.03}
+--------------------
+{'File Name': 'haberler_5.8.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '05.08.2020', 'Deðiþim': -0.32}
+--------------------
+{'File Name': 'haberler_5.9.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '05.09.2022', 'Deðiþim': 3.4}
+--------------------
+{'File Name': 'haberler_6.1.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '06.01.2022', 'Deðiþim': 0.73}
+--------------------
+{'File Name': 'haberler_6.10.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '06.10.2020', 'Deðiþim': -0.98}
+--------------------
+{'File Name': 'haberler_6.12.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '06.12.2022', 'Deðiþim': 1.08}
+--------------------
+{'File Name': 'haberler_6.8.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '06.08.2020', 'Deðiþim': -5.15}
+--------------------
+{'File Name': 'haberler_6.9.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '06.09.2022', 'Deðiþim': 0.29}
+--------------------
+{'File Name': 'haberler_7.11.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '07.11.2022', 'Deðiþim': 2.4}
+--------------------
+{'File Name': 'haberler_7.12.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '07.12.2021', 'Deðiþim': 1.88}
+--------------------
+{'File Name': 'haberler_7.4.2023.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '07.04.2023', 'Deðiþim': 0.07}
+--------------------
+{'File Name': 'haberler_7.6.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '07.06.2022', 'Deðiþim': -0.11}
+--------------------
+{'File Name': 'haberler_7.7.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '07.07.2020', 'Deðiþim': 0.46}
+--------------------
+{'File Name': 'haberler_8.10.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '08.10.2020', 'Deðiþim': -0.54}
+--------------------
+{'File Name': 'haberler_8.11.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '08.11.2022', 'Deðiþim': 0.55}
+--------------------
+{'File Name': 'haberler_8.12.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '08.12.2020', 'Deðiþim': 0.62}
+--------------------
+{'File Name': 'haberler_8.12.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '08.12.2021', 'Deðiþim': 0.73}
+--------------------
+{'File Name': 'haberler_8.4.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '08.04.2022', 'Deðiþim': 1.37}
+--------------------
+{'File Name': 'haberler_8.5.2023.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '08.05.2023', 'Deðiþim': 2.9}
+--------------------
+{'File Name': 'haberler_8.9.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '08.09.2021', 'Deðiþim': -1.44}
+--------------------
+{'File Name': 'haberler_8.9.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '08.09.2022', 'Deðiþim': 0.27}
+--------------------
+{'File Name': 'haberler_9.10.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '09.10.2020', 'Deðiþim': 1.12}
+--------------------
+{'File Name': 'haberler_9.11.2020.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '09.11.2020', 'Deðiþim': 1.41}
+--------------------
+{'File Name': 'haberler_9.11.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '09.11.2021', 'Deðiþim': 0.23}
+--------------------
+{'File Name': 'haberler_9.3.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '09.03.2021', 'Deðiþim': 0.46}
+--------------------
+{'File Name': 'haberler_9.7.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '09.07.2021', 'Deðiþim': 0.28}
+--------------------
+{'File Name': 'haberler_9.9.2021.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '09.09.2021', 'Deðiþim': 1.52}
+--------------------
+{'File Name': 'haberler_9.9.2022.txt', 'Folder': 'pos', 'Source': 'haberler', 'Date': '09.09.2022', 'Deðiþim': 1.62}
+--------------------
