@@ -45,10 +45,8 @@ let's get a good grade :)
 # Quick File Explanations
 Below are quick explanation about what every code does, 
 the workings of the python code could be understood more by looking at the comments in each code.
-As a side note, the task of downloading links was shared by team members therefore the download_links.py
-code for garanti and yapikredi may not be here
 
-# Downloading Links
+## Downloading Links
 
 - akbank_link_download.py
 
@@ -57,8 +55,11 @@ code for garanti and yapikredi may not be here
 - gedik_link_download.py
 
   Downloads links to PDFs in the specified url using requests and BeautifulSoup to sequentially take links from gedik website
+  
+- download_links_yk_garan
+  Downloads links to PDFs in the specified url using requests, BeautifulSoup and Selenium to sequentially take links from Garanti and YapıKredi website
 
-# Downloading PDFs
+## Downloading PDFs
 
 - akbank_PDF_download.py
 
@@ -78,7 +79,7 @@ code for garanti and yapikredi may not be here
 
   Gets .txt file of links and downloads PDFs from it and saves them to /data/yapikredi_PDF, folders need to be created beforehand
 
-# Extracting Text
+## Extracting Text
 
 - pypdfium2_akbank.py
 
@@ -107,7 +108,7 @@ code for garanti and yapikredi may not be here
   put all extracted text into a list of dictionaries where date, count, paragraph are keys
   put the combined dictionaries into .json file
 
-# .Json Labeling
+## .Json Labeling
 
 After text extraction the output .json files were processed by dividing them by BIST-100 values such that,
 if a text was published while BIST-100 had a negative change the processed text was put into the negative folder
@@ -135,3 +136,20 @@ else it was put into the positive folder, these folders would serve as the label
   date, tweet, views as values. The date of each element will be compared with XU100 excel sheet where 
   changes in BIST-100 value are located. The dates of dictionaries will be found in XU100 and will be 
   sorted into negative folder if value is negative or into positive folder if value is positive.
+## True Labeling
+
+- parse_keywords.py
+  checks each neg or pos assigned files keywords and move them to other folder if falsely labeled
+  
+## Model Training
+
+- bert_train
+  + Trains the data with Bert Model and checks the results. Bert Tokenizer is also used to further preprocess the data.
+  + To see the results and scores of the model please check this file.
+  
+## Visualizations 
+
+- Visualizations.ipynb
+  To show the performance on of the model on whole data and to visualize the sentiments made from brokerages or news this file is implemented.
+- CS210Visualization.pptx 
+  
