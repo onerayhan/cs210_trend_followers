@@ -15,7 +15,7 @@ let's get a good grade :)
 ## Link to the Trained Model
 - Trained Model can be directly downloaded and tuned for live sentiment analysis.
 - Has an Accuracy rate > 0.90 for the test data 
-- [Trained Model Link](https://drive.google.com/drive/folders/1-IT94ui7OPX9R1AMk7QOx2KgBRQ11Xmd?usp=sharing)  
+- [Trained Model Link](https://huggingface.co/onerayhan/bert_finance_BIST100)  
 ------------------------------------------------------------
 ## Link to the Prelabeled Data
 - Data is prelabeled with Daily Return Value of the Bist-100 in order to get a first insight
